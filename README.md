@@ -2,7 +2,7 @@
 
 I did a case study on the Kickstarter Project using SQL. I took this dataset from one of the data challenges of LinkedIn which I took part in.
 
-https://eadn-wc04-1126528.nxedge.io/wp-content/uploads/2012/08/How-to-launch-a-Successful-Kickstarter-Campaign.jpeg
+![image](https://user-images.githubusercontent.com/72240938/236675102-d5664726-f65f-4b29-aa8a-ae5e1d38ecf4.png)
 
 
 I asked several questions with respect to the dataset, and then answered them using SQL queries.
