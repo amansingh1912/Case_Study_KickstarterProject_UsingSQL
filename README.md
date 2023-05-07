@@ -1,6 +1,9 @@
 # Case Study on Kickstarter Project Using SQL
 
-I did a case study on the Kickstarter Project using SQL. I took this dataset from one of the data challenges of LinkedIn which I took part.
+I did a case study on the Kickstarter Project using SQL. I took this dataset from one of the data challenges of LinkedIn which I took part in.
+
+https://eadn-wc04-1126528.nxedge.io/wp-content/uploads/2012/08/How-to-launch-a-Successful-Kickstarter-Campaign.jpeg
+
 
 I asked several questions with respect to the dataset, and then answered them using SQL queries.
 
